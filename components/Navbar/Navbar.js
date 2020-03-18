@@ -14,7 +14,8 @@ const styles = StyleSheet.create({
         height: 70,
         backgroundColor: '#ff363a',
         alignItems: 'center',
-        justifyContent: 'flex-end'
+        justifyContent: 'flex-end',
+        paddingBottom: 10
 
     },
     navtext:{
